@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "John",
+      "username": "John",
+      "email": "john@example.com",
+      "phone": "1234567892",
+      "id": 1
+    },
+    {
+      "name": "Geeta",
+      "username": "geetakhanchi",
+      "email": "geeta@gmail.com",
+      "phone": "4567893478",
+      "id": 2
+    },
+    {
+      "name": "Geeta",
+      "username": "geetakhanchi",
+      "email": "geeta@gmail.com",
+      "phone": "4567893478",
+      "id": 3
+    },
+    {
+      "name": "pooja",
+      "username": "sharma",
+      "email": "pooja@gmail.com",
+      "phone": "4578923453",
+      "id": 4
+    }
+  ]
+}
