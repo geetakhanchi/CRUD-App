@@ -4,16 +4,21 @@ import Home from './components/home';
 import AllUsers from './components/allusers';
 import AddUser from './components/adduser';
 
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+
 
 
 function App() {
   return (
-    <div className="App">
+    <BrowserRouter>
         <NavBar /> 
-        <Home />
-        <AllUsers />
-        <AddUser />
-    </div>
+        <Routes>
+          <Route path='/' element={<Home />} />
+          <Route path='all' element={<AllUsers />} />
+          <Route path='add' element={<AddUser />} />
+        </Routes>
+        
+    </BrowserRouter>
   );
 }
 
