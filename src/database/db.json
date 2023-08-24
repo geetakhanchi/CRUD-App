@@ -2,24 +2,10 @@
   "users": [
     {
       "name": "John",
-      "username": "John",
-      "email": "john@example.com",
+      "username": "John Doe",
+      "email": "johndoe@example.com",
       "phone": "1234567892",
       "id": 1
-    },
-    {
-      "name": "Geeta",
-      "username": "geetakhanchi",
-      "email": "geeta@gmail.com",
-      "phone": "4567893478",
-      "id": 2
-    },
-    {
-      "name": "Geeta",
-      "username": "geetakhanchi",
-      "email": "geeta@gmail.com",
-      "phone": "4567893478",
-      "id": 3
     },
     {
       "name": "pooja",
@@ -27,6 +13,20 @@
       "email": "pooja@gmail.com",
       "phone": "4578923453",
       "id": 4
+    },
+    {
+      "name": "Manisha",
+      "username": "Manisha Sharma",
+      "email": "manisha@gmail.com",
+      "phone": "3434789456",
+      "id": 5
+    },
+    {
+      "name": "Geeta",
+      "username": "geetakhanchi",
+      "email": "admin@gmail.com",
+      "phone": "4578923453",
+      "id": 6
     }
   ]
 }
